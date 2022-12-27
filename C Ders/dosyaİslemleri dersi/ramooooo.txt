@@ -1,0 +1,2 @@
+girdiginiz sayilar ve toplamlari:
+12 + 30 = 42

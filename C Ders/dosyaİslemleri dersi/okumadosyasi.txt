@@ -1,0 +1,4 @@
+parfum 15 Fransa
+pizza 24 italya
+pasta 12 amerika
+adana durum 10 turkiye

@@ -1,0 +1,10 @@
+126 nolu ogrencimizin:
+adi : ramazan akdag	vize notu: 100	final notu: 50	ortalamasi: 75.000000
+
+ 125 nolu ogrencimizin:
+adi : rozerin akdag	vize notu: 90	final notu: 40	ortalamasi: 65.000000
+
+ 124 nolu ogrencimizin:
+adi : rojin akdag	vize notu: 80	final notu: 30	ortalamasi: 55.000000
+
+ 
